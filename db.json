@@ -1,0 +1,36 @@
+{
+    "series": [
+        {
+            "titulo": "Breaking Bad",
+            "categoria": "crimen",
+            "imagen": "https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg",
+            "video": "https://www.youtube.com/embed/V8WQhxHEmMc?si=LGnT1B9Uwen4ImbY" ,
+            "descripcion": "El profesor calmado de química de una secundaria, Walter White cree que su vida no puede ser peor. Su salario apenas le alcanza para sostener a su familia, una situación que no mejora cuando su esposa da a luz y su hijo adolescente sufre de parálisis cerebral, pero Walter queda anonadado cuando se entera que tiene un cáncer terminal. Al concluir que su enfermedad iba a arruinar financieramente a su familia, él toma una decisión desesperada con el fin de ganar más dinero.",
+            "id": 1
+        },
+        {
+            "titulo": "Better Call Saul",
+            "categoria": "crimen",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BZDA4YmE0OTYtMmRmNS00Mzk2LTlhM2MtNjk4NzBjZGE1MmIyXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
+            "video": "https://www.youtube.com/embed/Ylv21uNzW4k?si=faJ-q4EicP4vLSkT",
+            "descripcion": "Seis años antes de conocer a Walter White, el cuestionable abogado Jimmy McGill asume el alias de Saul Goodman, mientras intenta labrarse un nombre propio en Albuquerque.",
+            "id": 2
+        },
+        {
+            "titulo": "Ozark",
+            "categoria": "drama",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh_uwYswW2BI3_Wg9QTUe5k3kDkahAW_r2fg&s",
+            "video": "https://www.youtube.com/embed/3CefRpc-Rgo?si=4H3WPiaPVa_7Ns3r",
+            "descripcion": "Un financista traslada a su familia a Ozarks. Después de que un plan de lavado de dinero va mal, se ve obligado a pagar una deuda a un narcotraficante mexicano para mantener a su familia.",
+            "id": 3
+        },
+        {
+            "titulo": "Mindhunter",
+            "categoria": "drama",
+            "imagen": "https://occ-0-114-116.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQegMBe-lBNxDna5rcilKo_dghCzEzoYi4kLlzbm6iqq8L5z59Z2eJNhNcsswu6KTK6OFp0EciMr8tr37W9rM3UDZWUTzhOVOLYUa8gTj25eYUUiPcuHhaVNHKg-b67YXw4KYA.jpg?r=4aa",
+            "video": "https://www.youtube.com/embed/ShNq5ToeCe8?si=j7PNWWhXp0gTWrun",
+            "descripcion": "Los agentes de la unidad especial del FBI desarrollan nuevas técnicas que les permiten perseguir asesinos en serie, violadores y otros criminales.",
+            "id": 4
+        }
+    ]
+}
